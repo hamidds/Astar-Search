@@ -1,9 +1,9 @@
 # Astar-Search
-A-star Search on a matrix.
+A-star Search on a matrix with a cool console output. 
 
 ## Usage
 1. place your grid in matrix.txt. (Grid should be 10*10)
-1. Run astar!
+1. Run astar.py!
 
 ## Example
 * my grid:
